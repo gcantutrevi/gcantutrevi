@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcantutrevi
-- 👀 I’m interested in dev and Dev OPS.
+- 👀 I’m interested in dev.
 - 🌱 I’m currently learning PHP and Laravel.
 - 💞️ I’m looking to collaborate on Microsoft.
 
